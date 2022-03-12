@@ -1,0 +1,16 @@
+D:\Games\Проекты\Task2\Task2\bin\Debug\net5.0\Task2.exe
+D:\Games\Проекты\Task2\Task2\bin\Debug\net5.0\Task2.deps.json
+D:\Games\Проекты\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+D:\Games\Проекты\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+D:\Games\Проекты\Task2\Task2\bin\Debug\net5.0\Task2.dll
+D:\Games\Проекты\Task2\Task2\bin\Debug\net5.0\ref\Task2.dll
+D:\Games\Проекты\Task2\Task2\bin\Debug\net5.0\Task2.pdb
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.dll
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\ref\Task2.dll
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.pdb
+D:\Games\Проекты\Task2\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
